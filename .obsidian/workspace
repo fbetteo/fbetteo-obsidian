@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "a572a27fcf2bab3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "43488fab5cc8356f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bariloche.md",
+            "mode": "source"
+          }
+        },
+        "group": "1ca6d28dbe497602"
+      },
+      {
+        "id": "8bbc9e54203ec739",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bariloche.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1ca6d28dbe497602"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f86e7d3d88aebded",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3317f85c4ba44f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4f466844dbff01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "069115b71df38d07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3249be9a1cb4a5c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "659d67be46c1d436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a4864787edad3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bariloche.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bd9c0481cb95fc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bariloche.md"
+              }
+            }
+          },
+          {
+            "id": "f52be4b482d4c6b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "43488fab5cc8356f",
+  "lastOpenFiles": [
+    "bariloche.md",
+    "code_optimization.md",
+    "libros/La_hora_más_oscura.md",
+    "libros/El_mundo_segun_Garp.md",
+    "Untitled.md",
+    "Luna_azul.md",
+    "El_mundo_segun_Garp.md",
+    "La_hora_más_oscura.md",
+    "Quirke_en_San_Sebastian.md",
+    "Quirke en San Sebastián.md"
+  ]
+}
