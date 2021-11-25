@@ -1,5 +1,5 @@
 # Embeddings
-
+#datascience 
 Como concepto el embedding es representar una variable no numérica como un vector de cierta dimensión a determinar.   
 Ejemplo típico en NLP es representar una palabra como un vector de números. Los valores de los vectores se aprenden en entrenamiento e idealmente deberían representar atributos de la variable aunque no sea intuitivo a simple vista. Por ejemplo, la distancia (coseno/euclidea? - revisar) de estos vectores entre variables similares debería ser menor que entre variables disímiles.
 

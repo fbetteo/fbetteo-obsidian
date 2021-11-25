@@ -1,5 +1,5 @@
 # Xgboost
-
+#datascience 
 ### Xgboost como algoritmo
 
 Xgboost es un algoritmo/librería que busca optimizar la metodología de Gradient Boosting. Extreme gradient boosting. Por ende, en el fondo es una versión nueva de la metodología anterior. A su vez le agrega parámetros de regularización que antes no estaban presentes.
