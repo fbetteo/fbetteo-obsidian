@@ -22,3 +22,5 @@
 * Better call Saul
 * Seinfeld
 * Mad men
+* Ozark
+* Giri - Haji
