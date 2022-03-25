@@ -1,7 +1,7 @@
 # Quirke en San Sebastián
 
 * Autor: Benjamin Black
-* #libros #policial
+* #libros #policial #novela
 
 
  	![Portada](https://contentv2.tap-commerce.com/cover/large/9789877387865_1.jpg)

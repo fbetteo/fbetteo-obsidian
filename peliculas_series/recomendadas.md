@@ -8,7 +8,10 @@
 * The french dispatch
 * American Psycho
 * Memento
-
+* Dunkirk
+* Amores perros
+* Nadar solo
+* Before Sunrise
 
 
 # Series Recomendadas
