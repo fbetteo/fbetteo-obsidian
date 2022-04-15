@@ -1,5 +1,6 @@
 # Bootstrap
-Advanced data analysis from an elementary point of view. Shalizi. Chapter 6.
+#datascience
+Advanced data analysis from an elementary point of view. #Shalizi. Chapter 6.
 
 The usual bootstrap concept is the **resampling bootstrap** or **non-parametric bootstrap** where we treat the original data as a population and we sample multiple datasets where each observation has equal probability and we run our estimation in each of those new datasets.
 A related version is the **smoothed bootstrap** where after resampling we perturb the observations with a small amount of noise.

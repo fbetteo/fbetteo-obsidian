@@ -1,5 +1,6 @@
 # Simulation
-Advanced data analysis from an elementary point of view. Shalizi. Chapter 5.
+#datascience
+Advanced data analysis from an elementary point of view. #Shalizi. Chapter 5.
 Some thoughts on why simulate.
 
 ### Understand the model
