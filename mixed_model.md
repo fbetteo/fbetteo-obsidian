@@ -8,7 +8,7 @@ We want to model sales of a brand using price as a predictor. We have observatio
 We can say that observations from each store should share some properties (coefficients?) and that stores from the same county should also tend to be more similar.
 Hence we have a stores into county nested model. Or multilevel, or hierarchical..
 
-Fixed-random effects comes from other perspective of the same scenario. Continuing with the example, we might have initially a coefficient for price. But then as we include the stores->county structure in the model we end up having a "fixed" coefficient for price and then "random" effects for each county, and for each store, which leads to have a different price coefficient for each store (the lowest level of the structure) made by the fixed effect and the random effect. There are different flavors of model structures (like different random effects not nested) but you get the main idea.
+Fixed-random effects comes from other perspective of the same scenario. Continuing with the example, we might have initially a coefficient for price. But then as we include the stores-county structure in the model we end up having a "fixed" coefficient for price and then "random" effects for each county, and for each store, which leads to have a different price coefficient for each store (the lowest level of the structure) made by the fixed effect and the random effect. There are different flavors of model structures (like different random effects not nested) but you get the main idea.
 
 **So, why not creating a categorial variable for each store and/or county like in regular regressions?**
 

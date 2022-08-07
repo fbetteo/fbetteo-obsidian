@@ -12,6 +12,8 @@
 * Amores perros
 * Nadar solo
 * Before Sunrise
+* Gran Torino
+* L'auberge espagnole
 
 
 # Series Recomendadas

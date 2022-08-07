@@ -10,7 +10,7 @@ Resampling bootstrap is the most conservative one since we don't need to assume 
 We can use bootstrap to compute confidence intervals, variance and std, bias correction (?).
 
 ### Watch outs.
-* Take care with dependent data since we can't sample without taking that into accound (will revisit this in chap 26-27)
+* Take care with dependent data since we can't sample without taking that into account (will revisit this in chap 26-27)
 * If the DGP is really sensitive to small changes, bootstrap can fail big time. For resampling this means that adding or removing a few data points must change the functionals only a little. Special attention to extreme values.
 
 ### Conclusion
