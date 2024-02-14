@@ -6,7 +6,7 @@ Classes that take a matrix/dataframe input and transform it. Transformation coul
 
 An example is StandardScaler() that enables to standardize the data. We will use this to illustrate.
 
-A transformer must have two method:
+A transformer must have two methods:
 * fit
 * transform
 

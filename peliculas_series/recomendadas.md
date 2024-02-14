@@ -14,7 +14,7 @@
 * Before Sunrise
 * Gran Torino
 * L'auberge espagnole
-
+* La princesa Mononoke
 
 # Series Recomendadas
 * Bojack Horseman
@@ -26,6 +26,8 @@
 * Breaking bad
 * Better call Saul
 * Seinfeld
+* Curb your enthusiasm
 * Mad men
 * Ozark
 * Giri - Haji
+* 10 percent

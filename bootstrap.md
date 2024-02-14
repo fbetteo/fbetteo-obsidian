@@ -5,7 +5,7 @@ Advanced data analysis from an elementary point of view. #Shalizi. Chapter 6.
 The usual bootstrap concept is the **resampling bootstrap** or **non-parametric bootstrap** where we treat the original data as a population and we sample multiple datasets where each observation has equal probability and we run our estimation in each of those new datasets.
 A related version is the **smoothed bootstrap** where after resampling we perturb the observations with a small amount of noise.
 
-Resampling bootstrap is the most conservative one since we don't need to assume nothing from the model or data. Model bootstrapping (Shalizi 6.2) gives more accurate results that resampling bootstrap at same N -- as long as the model is correctly specified! If wrong, it will give converge to wrong results... So, resampling is usually preferred unless we are really certain about the model .
+Resampling bootstrap is the most conservative one since we don't need to assume nothing from the model or data. Model bootstrapping (Shalizi 6.2) gives more accurate results that resampling bootstrap at same N -- as long as the model is correctly specified! If wrong, it will converge to wrong results... So, resampling is usually preferred unless we are really certain about the model .
 
 We can use bootstrap to compute confidence intervals, variance and std, bias correction (?).
 

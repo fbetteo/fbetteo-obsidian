@@ -39,7 +39,7 @@ For multivariate regression the logic remains but the formulas get a bit more co
 
 Splines are fast to run due to arithmetic tricks and it's really clear about the smoothing applied.
 
-Kernel regression, although slower, is a simpler to program and results are more analyzable. It's also easier to expand to multiple independent variables and to combinations of numerical and categorial variables.
+Kernel regression, although slower, is  simpler to program and results are more analyzable. It's also easier to expand to multiple independent variables and to combinations of numerical and categorial variables.
 
 
 

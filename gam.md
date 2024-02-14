@@ -9,7 +9,7 @@ This includes the linear model as a special case, where $f_j(x_j) = \beta_j x_j$
 Each partial response function is like the coefficient in a lineal regression, as they can tell how the prediction change when $x_j$ change although not that easily as a plain coefficient. Could be useful to plot the partial functions to visually understand. It's more complex but more rich.
 
 ### Estimation
-Fitting the model is done via *backfitting* (or Gauss-Seidel), which is a interative process that usually converges.
+Fitting the model is done via *backfitting* (or Gauss-Seidel), which is an iterative process that usually converges.
 
 Each variable has an individual contribution so any method that can estimate a relation between two variables is accepted. You can use any non parametrical method as splines or kernel regression.
 More complex things are allowed, such as using a parametric method for some variables and non parametric for others or even include interactions with a joint smoothing[^1]

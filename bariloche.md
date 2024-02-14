@@ -10,6 +10,7 @@
 * Goye/Bellavista/Refugio Jakob pendientes.
 * Mirador Brazo Tristeza. Por la zona de la península sale la picada al mirador, todo por dentro de bosque bordeando el lago y luego subiendo. No es claro el camino pero es sencillo. Llegás a un mirador muy lindo. Es corto 45 min si no te perdés...
 * Isla Victoria. Se llega en barco desde Puerto Pañuelo. La isla está bárbara, super virgen gran parte. Se puede recorrer y es super pacífico.
+* Puerto Blest y cascada de los cántaros . Se llega en barco desde Puerto Pañuelo. Lindo paseo, nos tocó clima maso y no se apreció mucho algunas partes pero recomiendo. Hay un hotel en Puerto Blest que estaría buenísimo ir. 
 * Playa km 23 por bajada medio oculta. 
 * Playa Bonita (super concurrida en temporada).
 
@@ -20,3 +21,4 @@
 * Equs. Casa de té super tranqui y clásica. Menú fijo con variedad de tortas, tostadas, etc y té ilimitado. Recomendado
 * Paila Co. En la península con excelente vista al lago. Se llena, debe ser mucho mejor en verano pudiendo estar afuera. La comida estaba bien pero no fue wow.
 * Chiado. Ahí nomás de la cabaña yendo hacia el Campanario. Buena vista al lago y tortas super abundantes y ricas.  Se llena, ir temprano.
+* Belle Vue: Cerca de circuito chico, hay que meterse por un camino que sale de la Bustillo. Chico y no es wow la comida/te pero la vista es quizás la mejor para tomar algo.
