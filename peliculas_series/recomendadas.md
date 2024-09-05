@@ -31,3 +31,5 @@
 * Ozark
 * Giri - Haji
 * 10 percent
+* The Night of
+* The Deuce

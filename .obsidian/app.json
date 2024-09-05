@@ -1,5 +1,9 @@
 {
   "spellcheck": true,
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": true
 }

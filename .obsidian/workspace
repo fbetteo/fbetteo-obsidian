@@ -1,31 +1,33 @@
 {
   "main": {
-    "id": "a572a27fcf2bab3d",
+    "id": "3af9e63aaa352b08",
     "type": "split",
     "children": [
       {
-        "id": "43488fab5cc8356f",
+        "id": "82c5d9d2efc70238",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bariloche.md",
-            "mode": "source"
+            "file": "peliculas_series/recomendadas.md",
+            "mode": "source",
+            "source": false
           }
         },
-        "group": "1ca6d28dbe497602"
+        "group": "8d4e2a59cea75f1f"
       },
       {
-        "id": "8bbc9e54203ec739",
+        "id": "f6e1972b10c8d109",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bariloche.md",
-            "mode": "preview"
+            "file": "peliculas_series/recomendadas.md",
+            "mode": "source",
+            "source": false
           }
         },
-        "group": "1ca6d28dbe497602"
+        "group": "8d4e2a59cea75f1f"
       }
     ],
     "direction": "vertical"
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#datascience",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bariloche.md",
+                "file": "peliculas_series/recomendadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bariloche.md"
+                "file": "peliculas_series/recomendadas.md"
               }
             }
           },
@@ -120,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43488fab5cc8356f",
+  "active": "82c5d9d2efc70238",
   "lastOpenFiles": [
-    "bariloche.md",
-    "code_optimization.md",
-    "libros/La_hora_más_oscura.md",
-    "libros/El_mundo_segun_Garp.md",
-    "Untitled.md",
-    "Luna_azul.md",
-    "El_mundo_segun_Garp.md",
-    "La_hora_más_oscura.md",
-    "Quirke_en_San_Sebastian.md",
-    "Quirke en San Sebastián.md"
+    "peliculas_series/pendientes.md",
+    "libros/Quirke_en_San_Sebastian.md",
+    "libros/Muertes_prescindibles.md",
+    "libros/Mañana_no_estas.md",
+    "libros/Luna_azul.md",
+    "libros/La_hora_mas_oscura.md",
+    "libros/Huye_rapido_vete_lejos.md",
+    "libros/El_ejercito_furioso.md",
+    "libros/Elegía_para_un_americano.md",
+    "libros/El_mundo_segun_Garp.md"
   ]
 }

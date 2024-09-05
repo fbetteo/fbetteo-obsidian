@@ -15,6 +15,17 @@ La idea es optimizar la predicción mediante Gradient Descent pero no se puede h
 
 La nueva predicción va a ser la predicción del primero modelo + la del segundo, multiplicado por un learning rate para no overfitear. De eso, obtenemos un nuevo residuo y continuamos hasta algún criterio de parada (máxima cantidad de árboles o ganancia imperceptible)
 
+
+### Custom Loss
+Se le puede pasar una custom loss, necesitas el gradiente y el hessiano. Probe con chatgpt para que calcule la loss de la diferencia entre los asientos vendidos de todo el vuelo y el total y no solo la loss individual.
+No cambio mucho la verdad en validation pero sospecho que puede ser por el data drift. Vuelos distintos en validation.
+
+La documentacion no es la mas clara pero gpt ayudo.
+https://xgboost.readthedocs.io/en/stable/tutorials/custom_metric_obj.html
+
+El learning rate fue clave. Si lo subia de 0.01 la loss explotaba y se rompia el modelo.
+Se puede evaluar y storear la loss y la evaluatrion metric.
+
 ### Referencias
 https://xgboost.readthedocs.io/en/latest/  
 
