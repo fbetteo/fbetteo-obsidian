@@ -1,4 +1,4 @@
-
+#datascience #relugroup #pricing
 # Goal
 
 Perform estimation of model with a causal framework in mind. The idea is to estimate parameters in a unbiased way, retrieving the correct parameters on top of having good predictions. They show an example of a ML model that has good performance but the parameters of interest are totally biased and hence, can't be used for decisions or down the pipeline for other tasks. We can't know the true effect of a feature in the response variable.
